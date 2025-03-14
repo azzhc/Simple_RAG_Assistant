@@ -3,7 +3,7 @@ This is an AI assistant for simple RAG based on Ollama and PyQt.
 ## Cover
 ![Cover](./basis/Cover.png)
 ## Chat UI
-![Chat UI](./basis/Chat UI.png)
+![Chat UI](./basis/Chat_UI.png)
 # 电力市场知识助手
 该项目实现了一个基于 PyQt 和 Ollama 的电力市场助手，并结合了一个用于检索-增强生成（RAG）的知识库，以回答与电力市场相关的问题。RAG 利用 SentenceTransformer 模型和 FAISS 向量索引检索相关文档。
 ## 项目简介
@@ -41,7 +41,7 @@ pip install transformers torch
     ├── Software Icon.png  # 软件图标
     ├── documents.txt      # 知识库文档，每个知识点之间用空行分隔
     ├── Cover.png          # 封面内容示例
-    ├── Chat UI.png        # 对话内容示例
+    ├── Chat_UI.png        # 对话内容示例
 ```
 
 > **注意**：  
