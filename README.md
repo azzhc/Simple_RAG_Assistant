@@ -1,5 +1,9 @@
 # Simple_RAG_Assistant
 This is an AI assistant for simple RAG based on Ollama and PyQt. 
+## Cover
+![Cover](./basis/Cover.png)
+## Chat UI
+![Chat UI](./basis/Chat UI.png)
 # 电力市场知识助手
 该项目实现了一个基于 PyQt 和 Ollama 的电力市场助手，并结合了一个用于检索-增强生成（RAG）的知识库，以回答与电力市场相关的问题。RAG 利用 SentenceTransformer 模型和 FAISS 向量索引检索相关文档。
 ## 项目简介
